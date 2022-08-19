@@ -30,3 +30,7 @@ public class Conta {
         return this.saldo;
     }   
 }
+public class cliente {
+    String nome;
+    byte idade;
+}
